@@ -1,6 +1,6 @@
-# Teste de Internet
+# Medir Conexão - Teste de Internet
 
-App de testes de internet construído para testar conhecimentos de Tailwind, o layout e simples utilizando o OpenSpeedTest como medidor
+App de testes de internet construído para testar conhecimentos de Tailwind e Firebase, o layout e simples e utilizando o OpenSpeedTest como medidor
 
 ## Funções
 
@@ -9,11 +9,13 @@ App de testes de internet construído para testar conhecimentos de Tailwind, o l
 - Layout Light/Dark
 - Foco em usabilidade e desempenho
 
-## Tecnologias
+## Ferramentas e Tecnologias
 
-- Open SpeedTest
-- Tailwind
-- HTML
-- CSS
-- Javascript
-- React
+- [Open SpeedTest](https://openspeedtest.com/)
+- [Tailwind](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React+Vite](https://vite.dev/)
+- [Vercel](https://vercel.com/)
+
+Referência para construir o Layout
+https://startseo-templateify.blogspot.com/2018/05/how-good-team-can-positively-influence.html
