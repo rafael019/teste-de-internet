@@ -5,7 +5,7 @@ export function Home() {
         <section className="bg-white p-8 border border-gray-200 mb-8">
           <h1 className="text-2xl font-bold text-stone-800 mb-8">Teste de Velocidade de Internet</h1>
           <div className="min-h-80">
-            <div className="w-full h-0 pb-[50%] relative">
+            <div className="w-full h-0 pb-[50%] relative mb-8">
               <iframe className="border-none absolute top-0 left-0 w-full h-full min-h-80 overflow-hidden" src="//openspeedtest.com/selfhosted"></iframe>
             </div>
             <p className="text-center">

@@ -18,4 +18,7 @@ App de testes de internet construído para testar conhecimentos de Tailwind e Fi
 - [Vercel](https://vercel.com/)
 
 Referência para construir o Layout
-https://startseo-templateify.blogspot.com/2018/05/how-good-team-can-positively-influence.html
+
+## Link do projeto em funcionamento
+
+[Veja o projeto funcionando](https://medirconexao.vercel.app/)
