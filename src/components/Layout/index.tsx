@@ -8,7 +8,7 @@ export function Layout() {
   return (
     <>
       <Header />
-      <main className="container text-gray-500">
+      <main className="container page-content">
         <Outlet />
       </main>
       <Footer />

@@ -55,8 +55,13 @@ export function Footer() {
               </Link>
             </li>
             <li>
-              <Link to="/" className="p-2">
-                Dicas e Tutoriais
+              <Link to="/terms-of-use" className="p-2">
+                Termos de uso
+              </Link>
+            </li>
+            <li>
+              <Link to="/privacy-policy" className="p-2">
+                Política de privacidade
               </Link>
             </li>
             <li>
