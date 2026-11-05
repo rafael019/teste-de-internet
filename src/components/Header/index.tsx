@@ -17,7 +17,7 @@ export function Header() {
           <Link to="/about" className="text-white font-medium p-3">
             Sobre
           </Link>
-          <Link to="/about" className="text-white font-medium p-3">
+          <Link to="/blog" className="text-white font-medium p-3">
             Dicas e Tutoriais
           </Link>
           <Link to="/contact" className="text-white font-medium p-3">
