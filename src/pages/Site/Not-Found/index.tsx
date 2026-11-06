@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { FiHome } from 'react-icons/fi';
-import { PageTitle } from '../../components/Page-title';
+import { PageTitle } from '../../../components/Page-title';
 export function NotFound() {
   return (
     <section className="bg-white p-32 border border-gray-200 my-10 text-center text-stone-800">

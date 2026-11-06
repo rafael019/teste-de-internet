@@ -1,4 +1,4 @@
-import { PageTitle } from '../../components/Page-title';
+import { PageTitle } from '../../../components/Page-title';
 export function Contact() {
   return (
     <section className="bg-white p-8 border border-gray-200 mb-8">
