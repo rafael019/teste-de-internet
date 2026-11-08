@@ -1,4 +1,4 @@
-import { PageTitle } from '../../../components/Page-title';
+import { PageTitle } from '../../../components/PageTitle';
 
 export function About() {
   return (

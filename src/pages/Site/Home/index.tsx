@@ -1,5 +1,5 @@
 import { Sidebar } from '../../../components/Sidebar';
-import { PageTitle } from '../../../components/Page-title/index';
+import { PageTitle } from '../../../components/PageTitle/index';
 export function Home() {
   return (
     <div className="grid grid-cols-[8fr_4fr] gap-9">
